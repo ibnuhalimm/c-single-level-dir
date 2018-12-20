@@ -11,8 +11,8 @@ This is c program to learning about simulate file organization techniques.
 
 ## How To Use
 1. Clone this repo
-2. Compile using 'gcc' or 'cc' with command : > cc single_dir.c -o single_dir
-3. Run these compiled program : > ./single_dir
+2. Compile using 'gcc' or 'cc' with command : > cc single_level.c -o single_level
+3. Run these compiled program : > ./single_level
 
 ## Documentation
 ![alt text](https://github.com/ibnuhalimm/c-single-level-dir/blob/master/docs/img_001.png?raw=true "Source Code")
