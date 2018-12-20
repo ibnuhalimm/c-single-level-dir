@@ -1,7 +1,7 @@
-Memory Best Fit
+Single Level Directory
 -----------------------
 
-This is c program to learning about contigous memory allocation techniques (best fit) .
+This is c program to learning about simulate file organization techniques.
 
 
 ## Related Repositories
